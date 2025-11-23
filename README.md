@@ -11,11 +11,17 @@ This repository contains the notebook `hw4-task2-False-Color-Mapping-Kadonoff.ip
 eds220-hwk4/
 │
 ├── README.md
+
 ├── data/
+
 │     └── Wildfire.jpg
+
 │     └── Eaton_Perimeter_20250121.geojson
+
 │     └── landsat8-02-23-palisades-eaton.nc
+
 │     └── Palisades_Perimeter_20250121.geojson
+
 └── hw4-task2-False-Color-Mapping-Kadonoff.ipynb
 
 ## Data Access
