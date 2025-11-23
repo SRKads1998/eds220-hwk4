@@ -4,7 +4,7 @@
 This repository contains the notebook `hw4-task2-False-Color-Mapping-Kadonoff.ipynb` so that we may visualize the burn areas of the Eaton and Palisades fires across the greater Los Angeles area. By examining geojson fire perimeter polygons as well as true and false color raster landsat data bands, we have created a map by which we may analize and better understand the extent to which these fires impacted the Los Angeles Community.
 
 
-![Eaton Fire](Wildfire.jpg)
+![Eaton Fire](data/Wildfire.jpg)
 
 ## Repository Structure
 
@@ -23,6 +23,7 @@ eds220-hwk4/
 All data required to create the map found within the `data` folder located within this repository, or may be accessed by downloading the files directly from the links below:
 
 Landsat Collection 2 Level-2 data: https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2
+
 Eaton and Palisades Fire geojson: https://hub.arcgis.com/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about
 
 
